@@ -44,6 +44,7 @@ export const plugin = new PanelPlugin<SimpleOptions>(SimplePanel)
 
     // with scenes (11.3) panel.targets is empty
     // without scenes panels.targets should contain the queries
+    console.log('If this panel has a query (which shuold have) the following console.log should print its target');
     console.log('Targets', panel.targets);
     return panel.options;
   });
