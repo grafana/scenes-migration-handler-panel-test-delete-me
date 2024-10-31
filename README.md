@@ -9,7 +9,7 @@ If issue https://github.com/grafana/grafana/issues/92000 is closed/resolved plea
 - Clone this repostiory
 - cd into the repository
 - run `npm install`
-- run `npm run build`
+- run `npm run dev`
 - run `npm run server`
 
 With error, open: http://localhost:3000/d/ce2jfefjks074f/scenes-migration-test?from=now-6h&to=now&timezone=browser&editPanel=1&scenes=true&orgId=1
