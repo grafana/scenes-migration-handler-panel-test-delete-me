@@ -70,5 +70,5 @@
     "react-dom": "18.2.0",
     "tslib": "2.5.3"
   },
-  "packageManager": "npm@10.8.2"
+  "packageManager": "npm@11.9.0"
 }
